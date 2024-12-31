@@ -72,10 +72,23 @@ endmodule
 ```
 
 **RTL Schematic**
+
+
 FULL ADDER:
+
+
+
 ![Screenshot (44)](https://github.com/user-attachments/assets/793fa9ed-0b1a-43cf-b9bc-a4efc62ef910)
 
+
+
+
+
 FULL SUBTRACTOR
+
+
+
+
 ![Screenshot (45)](https://github.com/user-attachments/assets/6cb242b5-522f-4749-bb07-47ef830acece)
 
 
