@@ -80,10 +80,20 @@ FULL SUBTRACTOR
 
 
 **Output Timing Waveform**
+
+
 FULL ADDER:
+
+
+
+
 ![Screenshot (46)](https://github.com/user-attachments/assets/e7824749-6001-43ef-a01c-46f44a4e1dd1)
 
+
+
 FULL SUBTRACTOR:
+
+
 ![Screenshot (47)](https://github.com/user-attachments/assets/3fa87f2a-ef18-44ad-aed2-c323b76b1df8)
 
 
